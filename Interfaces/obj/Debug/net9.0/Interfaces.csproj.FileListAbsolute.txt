@@ -1,0 +1,15 @@
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/bin/Debug/net9.0/Interfaces
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/bin/Debug/net9.0/Interfaces.deps.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/bin/Debug/net9.0/Interfaces.runtimeconfig.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/bin/Debug/net9.0/Interfaces.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/bin/Debug/net9.0/Interfaces.pdb
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfoInputs.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfo.cs
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/Interfaces.sourcelink.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/Interfaces.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/refint/Interfaces.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/Interfaces.pdb
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/Interfaces.genruntimeconfig.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Interfaces/obj/Debug/net9.0/ref/Interfaces.dll

@@ -1,0 +1,116 @@
+Object-Oriented Programming
+Test your knowledge
+
+1. What are the six combinations of access modifier keywords and what do they do? 2.
+What is the difference between the static, const, and readonly keywords when applied to
+a type member?
+
+public: Accessible from anywhere.
+private: Accessible only within the same class.
+protected: Accessible within the same class and derived classes.
+internal: Accessible within the same assembly
+protected internal: Accessible within the same assembly and derived classes
+private protected: Accessible only within the same class and derived classes within the same assembly.
+
+static: Belongs to the class, shared across all instances.
+const: Compile-time constant, value cannot be changed after declaration
+readonly: Runtime constant, can be assigned in a constructor but not modified afterward
+
+3. What does a constructor do?
+Used to initialize an object of a class when its instantiated
+
+4. Why is the partial keyword useful?
+partial classes: split class def across mul files
+partial method: used inside partial class
+                no runtime overhead cuz it gets removed at comp time if not implemented
+                Allows declaring a method signature in one file and implementing it in another
+
+
+5. What is a tuple?
+groups multiple values (1,"john")
+
+6. What does the C# record keyword do?
+two records are considered equal if their properties have same values
+also it makes all properties immutable
+
+public record Person(string FirstName, string LastName);
+---if we call this twice and checks it gives true if we pass same parameters
+
+7. What does overloading and overriding mean?
+a. example a multiple constructor with different params
+b. overriding the method in child class for example overriding abstract methods
+in the child class if we Inherit the base class
+
+8. What is the difference between a field and a property?
+field is variable
+property is a field with get and set accessors for controlled access
+- example giving controlled access with private filed (encapsulation)
+
+9. How do you make a method parameter optional?
+to provide default value to a function
+
+10. What is an interface and how is it different from abstract class?
+Interface - in C# 9 it cannot have fields, constructors and have only public modifiers
+            best for shared behaviour, state (faster)
+
+Abstract - have both abstract and concrete methods
+           best for multiple inheritance (overhead)
+
+11. What accessibility level are members of an interface?
+public
+
+12. True/False. Polymorphism allows derived classes to provide different implementations
+of the same method.
+True, (Ex: method overriding is a runtime polymorphism)
+
+13. True/False. The override keyword is used to indicate that a method in a derived class is
+providing its own implementation of a method.
+
+
+14. True/False. The new keyword is used to indicate that a method in a derived class is
+providing its own implementation of a method.
+True.
+it is used for method hiding and it same name as a method in base class
+it doesnot override it instead hides the base class method
+Allows Different Implementations Without Overriding
+
+
+15. True/False. Abstract methods can be used in a normal (non-abstract) class. 16.
+True/False. 
+False. can only be in abstract class
+
+16. Normal (non-abstract) methods can be used in an abstract class. 
+yes true
+
+17. True/False.
+Derived classes can override methods that were virtual in the base class. 
+true in C# we use virtual to override otherwise it throws error
+
+18. True/False.
+Derived classes can override methods that were abstract in the base class. 
+True. 
+
+19. True/False.
+In a derived class, you can override a method that was neither virtual non abstract in the
+base class.
+False. contrasts 18 question 
+
+
+20. True/False. A class that implements an interface does not have to provide an
+implementation for all of the members of the interface.
+False. 
+
+it can be true too
+in c#9 it might be different cuz it might have default implementation
+so it is upto the derived class to implement or not
+
+21. True/False. A class that implements an interface is allowed to have other members that
+aren’t defined in the interface.
+True
+
+22. True/False. A class can have more than one base class.
+no unless its an interface
+
+23. True/False. A class can implement more than one interface
+
+yes, multiple inheritance

@@ -1,0 +1,15 @@
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/bin/Debug/net9.0/ColorClass
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/bin/Debug/net9.0/ColorClass.deps.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/bin/Debug/net9.0/ColorClass.runtimeconfig.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/bin/Debug/net9.0/ColorClass.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/bin/Debug/net9.0/ColorClass.pdb
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ColorClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ColorClass.AssemblyInfoInputs.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ColorClass.AssemblyInfo.cs
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ColorClass.csproj.CoreCompileInputs.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ColorClass.sourcelink.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ColorClass.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/refint/ColorClass.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ColorClass.pdb
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ColorClass.genruntimeconfig.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/ColorClass/obj/Debug/net9.0/ref/ColorClass.dll

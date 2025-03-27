@@ -1,0 +1,15 @@
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/bin/Debug/net9.0/Classes
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/bin/Debug/net9.0/Classes.deps.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/bin/Debug/net9.0/Classes.runtimeconfig.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/bin/Debug/net9.0/Classes.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/bin/Debug/net9.0/Classes.pdb
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/Classes.AssemblyInfoInputs.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/Classes.AssemblyInfo.cs
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/Classes.csproj.CoreCompileInputs.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/Classes.sourcelink.json
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/Classes.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/refint/Classes.dll
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/Classes.pdb
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/Classes.genruntimeconfig.cache
+/Users/rakeshpuppala/Antra/C#/Day2Assignment/Classes/obj/Debug/net9.0/ref/Classes.dll
